@@ -1,0 +1,9 @@
+A simple block stacking game
+
+Press the S key to start, and press the S key again when the red block is aligned with the stack to build your tower
+
+When you have a fully green tower, you win!
+
+Be careful about the difficlty increase halfway through though.
+
+This is currently in a really rough state, I'll be cleaning this up later, but wanted to get it in as fast as possible.
